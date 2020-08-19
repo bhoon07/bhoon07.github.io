@@ -1,11 +1,23 @@
-.portrait {
-    width: 500px;
-    height: 500px;
-    margin-left: 10px;
-    margin-bottom: 10px;
+@media (min-width:375px){
+
+    .portrait {
+        width: 500px;
+        height: 500px;
+        margin-left: 10px;
+        margin-bottom: 10px;
+    }
 }
 
-.wd {
-    margin: auto;
-    display: block;
+@media (min-width:375px) {
+
+    .wd {
+        margin: auto;
+        display: block;
+    }
+}
+
+.bg {
+    background: url("https://media1.tenor.com/images/6b5e84045518e5b7fffe4b953d1b8838/tenor.gif?itemid=11570089");
+    background-size: 100%;
+
 }
