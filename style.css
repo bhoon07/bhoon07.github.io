@@ -18,6 +18,9 @@
 
 .bg {
     background: url("https://media1.tenor.com/images/6b5e84045518e5b7fffe4b953d1b8838/tenor.gif?itemid=11570089");
-    background-size: 100%;
+    background-size: contain;
+}
 
+#blue {
+    text-shadow: 2px 2px blue;
 }
