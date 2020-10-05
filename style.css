@@ -18,7 +18,7 @@
 
 .bg {
     background: url("https://images.squarespace-cdn.com/content/v1/599bfc6803596ef973b3fade/1510769313807-HAHM2BCIFETRAZ7BWUI9/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/loader-ai-siri_2x.gif?format=1500w");
-    background-size: contain;
+    background-size: cover;
 }
 
 #blue {
