@@ -24,3 +24,7 @@
 #blue {
     text-shadow: 2px 2px blue;
 }
+
+.h4, h4 {
+    font-size: 1.96rem;
+}
